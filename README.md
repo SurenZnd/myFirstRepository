@@ -2,4 +2,6 @@
 
 ## Editing the file
 
-it's a markdown file in this repository
+It's a Markdown file in this repository
+
+This is for the Data Scientist Capstone course
